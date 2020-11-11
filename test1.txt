@@ -9,3 +9,5 @@ git에 저장할 테스트 파일
 add 후 다시 수정
 
 diff 확인 위해 수정
+
+rm cached
