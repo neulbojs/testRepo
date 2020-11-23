@@ -1,7 +1,7 @@
 test2 text file
 
                 
-aaa
+aaa - gtest2v1
                                            
                      
 bb
