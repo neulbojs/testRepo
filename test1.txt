@@ -8,6 +8,10 @@ git에 저장할 테스트 파일
 수정했습니다.
 add 후 다시 수정
 
+function test() {
+  alert('test!');
+}
+
 gtest 용으로 수정
 
 iss53 용으로 한번더 수정
