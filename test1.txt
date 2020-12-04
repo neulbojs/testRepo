@@ -16,10 +16,4 @@ merge 이후 iss53 수정
 
 수정1
 
-m2hotfix1
-
-meromeor
-
-merge Conflict
-
-얍
+sig-merge
