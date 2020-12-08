@@ -4,8 +4,4 @@ test2 text file
 aaa
                                            
                      
-bb
-
-cherry test
-
-얍
+merge Test!
