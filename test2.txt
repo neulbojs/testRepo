@@ -13,4 +13,4 @@ aaa
 
 asbcd
 
-gt2에서 수정
+Real gt2에서 수정
