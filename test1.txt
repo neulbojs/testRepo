@@ -12,12 +12,4 @@ function test() {
   alert('test!');
 }
 
-gtest 용으로 수정
-
-iss53 용으로 한번더 수정
-
-merge 이후 iss53 수정
-
-수정1
-
-sig-merge
+re2/tr 11
