@@ -1,0 +1,6 @@
+*.pbxproj binary
+*.docx diff=word
+*.png diff=exif
+*.txt ident
+*.c filter=indent
+date*.txt filter=dater
