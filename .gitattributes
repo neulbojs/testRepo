@@ -5,3 +5,4 @@
 *.c filter=indent
 date*.txt filter=dater
 LAST_COMMIT export-subst
+database.xml merge=ours
